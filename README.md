@@ -1,8 +1,3 @@
-
-Based on the list of files extracted from the zip file, it seems to contain a Jupyter Notebook named deteccionFiguras.ipynb and a set of image files likely used in the notebook for detecting shapes such as circles, triangles, and squares. With this information, let's create a README in markdown format:
-
-markdown
-Copy code
 # Shape Detection Practice
 
 This repository contains a Jupyter Notebook and associated image files for practicing shape detection algorithms.
